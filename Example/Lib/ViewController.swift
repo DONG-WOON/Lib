@@ -7,11 +7,15 @@
 //
 
 import UIKit
+import Lib
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+
+        print(Self.identifier)
+        
         // Do any additional setup after loading the view, typically from a nib.
     }
 

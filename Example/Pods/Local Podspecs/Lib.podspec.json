@@ -1,0 +1,22 @@
+{
+  "name": "Lib",
+  "version": "0.1.0",
+  "summary": "A short description of Lib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/DONG-WOON/Lib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "DONG-WOON": "80871083+DONG-WOON@users.noreply.github.com"
+  },
+  "source": {
+    "git": "https://github.com/DONG-WOON/Lib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "Lib/Classes/**/*"
+}

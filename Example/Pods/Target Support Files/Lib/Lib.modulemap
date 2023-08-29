@@ -1,0 +1,6 @@
+framework module Lib {
+  umbrella header "Lib-umbrella.h"
+
+  export *
+  module * { export * }
+}
